@@ -9,6 +9,7 @@ This project is for all of the data engineering pieces that I would like to keep
 - [Fivetran](https://www.fivetran.com/)
 - [Apache](https://apache.org/)
   - [Airflow](https://airflow.apache.org/): Workflow automation platform
+  - [Atlas](http://atlas.apache.org/): Scalable and extensible set of core foundational governance services
   - [Flink](https://flink.apache.org/): Fast and reliable large-scale data processing
   - [Hive](http://hive.apache.org/): The Apache Hive (TM) data warehouse software facilitates querying and managing large datasets residing in distributed storage.
   - [Iceberg](https://iceberg.apache.org/): Iceberg is a high-performance format for huge analytic tables.
